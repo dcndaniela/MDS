@@ -1,5 +1,3 @@
-"# What can I cook today?" app
-
-A receipe (or many receips) is(are) generated based on USER preferences 
+In this app, a receipe (or many receipes) is (are) generated based on USER preferences .
 
 
